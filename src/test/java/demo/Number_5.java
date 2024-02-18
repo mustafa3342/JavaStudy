@@ -17,7 +17,7 @@ Fonksiyon array olarak verilen indexlerdeki harfin en yakınındaki (sağa yada 
 5: r ye en yakın r 6
 
  */
-public class NearestSameLetter_5 {
+public class Number_5 {
 
     public static void main(String[] args) {
         String str = "hackerrank";
