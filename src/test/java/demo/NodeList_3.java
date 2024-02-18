@@ -2,6 +2,11 @@ package demo;
 
 import java.util.ArrayList;
 import java.util.List;
+/*
+JavaScript Task:
+Write a function that takes a single NodeList and an integer x as parameters. The function should iterate through each element in the NodeList. If the element is greater than x, it should print "x is bigger than the element." If the element is less than or equal to x, it should print "element is bigger than or equal to x."
+
+ */
 
 public class NodeList_3 {
     public static void main(String[] args) {
