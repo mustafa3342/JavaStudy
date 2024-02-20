@@ -98,5 +98,5 @@ public class minimumDivisor {
             }
             return sum;
         }
-    }
+
 }
